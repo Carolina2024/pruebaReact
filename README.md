@@ -8,10 +8,10 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # pruebaReact
 
-#PRUEBA 1 REACT
+# PRUEBA REACT 1
 
-##Realizado por Carolina Castillo
+## Realizado por Carolina Castillo
 
-###Descripción: El siguiente proyecto consiste en la programación de una página utilizando una API, en este caso se utilizó la API de Harry Potter de libros.
+### Descripción: El siguiente proyecto consiste en la programación de una página utilizando una API, en este caso se utilizó la API de Harry Potter de libros.
 
-###Enlace a video de YouTube [Video en YouTube](https://youtu.be/MwunwvR8dEI "Video en YouTube")
+### Enlace a video de YouTube [Video en YouTube](https://youtu.be/MwunwvR8dEI "Video en YouTube")
