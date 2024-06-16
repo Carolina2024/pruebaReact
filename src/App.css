@@ -1,0 +1,8 @@
+.background-container {
+  background-image: url("https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/main_element/public/media/image/2019/08/harry-potter-escuela-hogwarts.jpg?itok=NjsTbl_z");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
