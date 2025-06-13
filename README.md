@@ -1,17 +1,24 @@
-# React + Vite
+# Introducción a React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+El siguiente proyecto consiste en la programación de una página utilizando una API, en este caso se utilizó la API de Harry Potter de libros.
 
-Currently, two official plugins are available:
+## Requerimientos
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# pruebaReact
+1. Limpia los archivos e importaciones que no utilizarás de la aplicación de acuerdo a lo aprendido en el curso.
 
-# PRUEBA REACT 1
+2. Dentro de `App.jsx` crea una landing page.
 
-## Realizado por Carolina Castillo
+3. Crea un componente llamado `MiApi.jsx` e impórtalo dentro de `App.jsx`.
 
-### Descripción: El siguiente proyecto consiste en la programación de una página utilizando una API, en este caso se utilizó la API de Harry Potter de libros.
+4. Dentro de `MiApi.jsx` crea el código para consumir la API y que muestre los resultados.
 
-### Enlace a video de YouTube [Video en YouTube](https://youtu.be/MwunwvR8dEI "Video en YouTube")
+5. Crea otro componente llamado `Buscador`, que filtre por alguno de los resultados de la API. Por ejemplo, nombre, precio o cualquier otro tipo de criterio coherente con el resultado de la API.
+
+6. Ordena los resultados por algún criterio que estimes conveniente, puede ser alfabéticamente, de menor a mayor, etc. Investiga el método `sort` y `reverse` de los arrays.
+
+7. Agrega un diseño coherente a tu aplicación.
+
+## Enlace a video de YouTube
+
+[https://www.youtube.com/watch?v=MwunwvR8dEI](https://www.youtube.com/watch?v=MwunwvR8dEI)
+
